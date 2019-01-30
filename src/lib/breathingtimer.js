@@ -1,5 +1,5 @@
 import { TweenMax, TimelineMax } from 'gsap';
-import { displayNotification } from '../animations/index';
+import { displayNotification } from '../animations';
 import { saveState, getState } from '../globalState';
 import breathingMenu from './breathingmenu';
 

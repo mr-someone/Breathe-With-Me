@@ -5,7 +5,7 @@ import {
   hideMenu,
   hideModal,
   showModal,
-} from '../animations/index';
+} from '../animations';
 
 const breathingMenu = {};
 

@@ -1,4 +1,4 @@
-import blacklist from '../lib/blacklist';
+import blacklist from './blacklist';
 
 const notifyUser = (notification) => {
   const inputValidation = document.getElementById('input-validation');

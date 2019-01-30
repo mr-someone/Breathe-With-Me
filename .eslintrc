@@ -2,6 +2,6 @@
   "extends": "airbnb",
   "env": {
     "browser": true,
-    "jquery": true,
+    "jquery": true
   }
 }
